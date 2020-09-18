@@ -1,2 +1,0 @@
-Online_SQL -  This is the ipython file of how to use sqlite3 using python on the google cloud platform. In the file I uploded, I have used a dummy dataset.
-               Sqlite3 is really fantastic library as the user does not need to connect to any kind of server (APache or Microsoft), thus, easing the work.
