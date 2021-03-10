@@ -1,6 +1,8 @@
 The project aims at using advanced machine learning methods on graphs and apply them to scrapped dark-web data, so as to predict future crimes. 
 This would help in further analysis of the commited crimes.
 
+We have primarily used [Node2vec](https://snap.stanford.edu/node2vec/) whose brief and precise explaination has been provided in the **[this]()** presenatation.
+
 ## Data Collection
 
   * Developed a secure pen‑drive mounted connection to the Dark Web using I2P and TOR. Tails OS was the primary OS used.
