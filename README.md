@@ -1,7 +1,7 @@
 The project aims at using advanced machine learning methods on graphs and apply them to scrapped dark-web data, so as to predict future crimes. 
 This would help in further analysis of the commited crimes.
 
-We have primarily used [Node2vec](https://snap.stanford.edu/node2vec/) whose brief and precise explaination has been provided in the **[this]()** presenatation.
+We have primarily used [Node2vec](https://snap.stanford.edu/node2vec/) whose brief and precise explaination has been provided in the **[this](https://github.com/Jash-2000/Dark-Web-analysis/blob/master/Presentations/node2vec%20explaination.pptx)** presenatation.
 
 ## Data Collection
 
