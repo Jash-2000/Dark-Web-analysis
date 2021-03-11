@@ -1,0 +1,5 @@
+SELECT id, column1, column2 FROM table
+INTO OUTFILE '/tmp/mysqlfiles/table.csv'
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
