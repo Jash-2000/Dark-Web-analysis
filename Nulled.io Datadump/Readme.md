@@ -1,6 +1,6 @@
 # Nulled.io Forum Hack
 
-The scraped data is present over [here](https://drive.google.com/file/d/1tc4EaLrIDWdVP_geTl7nzr9NmX20Elu4/view?usp=sharing). Please note that this data may not be available publicly and hence, we have kept the data private. Please contact me at (f20180507@pilani.bits-pilani.ac.in)[f20180507@pilani.bits-pilani.ac.in].
+The scraped data is present over [here](https://drive.google.com/file/d/1tc4EaLrIDWdVP_geTl7nzr9NmX20Elu4/view?usp=sharing). Please note that this data may not be available publicly and hence, we have kept the data private. Please contact me at [f20180507@pilani.bits-pilani.ac.in](f20180507@pilani.bits-pilani.ac.in).
 
 ![download](https://user-images.githubusercontent.com/47540320/110773506-d1abf900-8282-11eb-9e03-19763f5f4c8e.jpg)
 
