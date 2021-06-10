@@ -1,0 +1,17 @@
+db:
+  image: mysql:5
+  ports:
+    - 3306:3306
+  environment:
+    MYSQL_ROOT_PASSWORD: root
+
+jupyter:
+  build: .
+  #container-name: jupyter-service
+  volumes:
+    - ./python_src:/jupyter-notebooks/
+  ports:
+    - 0.0.0.0:8888:8888
+  tty: true
+  links:
+    - db
