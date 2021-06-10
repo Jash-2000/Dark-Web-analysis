@@ -18,4 +18,4 @@ The visualization graph for the entire network was as follows ( Source : [Wikipe
 For conversion of nodes to embeddings, I used the master script of Node2Vec present in the source path. My goal was to use unsupervised learning to cluster the Nodes that would be close to Node 1 and Node 34. Used method was **Node2vec** that converted the nodes into a 128 
 dimmension embedding vector. This was later clusterred into 2 clusters using K-means clusterring. The final distribution looked as follows:
 
-![Distributed Network](https://user-images.githubusercontent.com/47540320/121558008-e55a2d80-ca32-11eb-96fd-5ac9f235e06a.png)
+![Distributed Network](https://user-images.githubusercontent.com/47540320/121558745-8cd76000-ca33-11eb-9183-db2c82518771.PNG)
