@@ -5,6 +5,8 @@ This would help in further analysis of the commited crimes.
 
 We have primarily used [Node2vec](https://snap.stanford.edu/node2vec/) whose brief and precise explaination has been provided in the **[this](https://github.com/Jash-2000/Dark-Web-analysis/blob/master/Presentations/node2vec%20explaination.pptx)** presenatation.
 
+![1519919083143-2018-03-01](https://user-images.githubusercontent.com/47540320/121566006-b0ea6f80-ca3a-11eb-8500-766b8eb52bd7.png)
+
 ## Data Collection
 
   * Developed a secure pen‑drive mounted connection to the Dark Web using I2P and TOR. Tails OS was the primary OS used.
